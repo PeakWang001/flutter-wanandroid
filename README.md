@@ -1,11 +1,13 @@
 # flutter_wanandroid
 
-基于玩android 的Fultter项目 
-此项目为作者初学flutter  项目借鉴 lifeidroid  同时感谢 https://www.wanandroid.com
+## 基于玩android 的Fultter项目 
+### 此项目为作者初学flutter 
+### 项目借鉴 lifeidroid 
+### 同时感谢 https://www.wanandroid.com
 
 
 截图：
-![Image text](https://github.com/PeakWang001/flutter-wanandroid/blob/master/screenshot/home.png)
+![Image](https://github.com/PeakWang001/flutter-wanandroid/blob/master/screenshot/home.png)
 ![image](https://github.com/PeakWang001/flutter-wanandroid/blob/master/screenshot/project.png) 
 ![image](https://github.com/PeakWang001/flutter-wanandroid/blob/master/screenshot/wechat.png)
 ![image](https://github.com/PeakWang001/flutter-wanandroid/blob/master/screenshot/system.png)
